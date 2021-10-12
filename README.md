@@ -16,5 +16,5 @@ Finished- This the proper way to close the program which will log your run if it
 The logs are created in a seperate folder called Logs and will create them every day the program is ran.
 
 
-If you install the the font Av Qest it'll look like this  
+If you install the the font Av Qest it'll look like this,  
 ![alt text](https://i.imgur.com/rr0DRv8.png)
