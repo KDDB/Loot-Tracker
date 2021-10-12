@@ -2,6 +2,8 @@
 A manual loot tracker that keeps track of farming area, magic find and drops.
 
 
+![alt text](https://i.imgur.com/rr0DRv8.png)
+
 Farm-Where you write where you are farming.  
 MF-How much magic find you have.  
 Item-The item you found.  
